@@ -5,6 +5,39 @@ html {
   font-family: "helvetica neue";
 }
 
+.topnav {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.link1 {
+  text-decoration: none;
+  padding: 20px;
+  margin-right: 10px;
+  font-size: 20px;
+  color: #a683e3;
+  border-radius: 5px;
+}
+
+.link2 {
+  text-decoration: none;
+  padding: 20px;
+  margin-left: 10px;
+  font-size: 20px;
+  color: #a683e3;
+  border-radius: 5px;
+}
+
+.link1:hover {
+  background-color: #a683e3;
+  color: white;
+}
+
+.link2:hover {
+  background-color: #a683e3;
+  color: white;
+}
+
 h1 {
   color: #fff;
   padding: 10px;
